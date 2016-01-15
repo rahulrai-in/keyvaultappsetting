@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyVaultAppSetting", "KeyVaultAppSetting\KeyVaultAppSetting.csproj", "{D79FE106-7963-478F-8725-65D2EF353327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyVaultConfigurationHandler", "KeyVaultConfigurationHandler\KeyVaultConfigurationHandler.csproj", "{8787147A-6722-4534-A93B-01660BEAF3DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D79FE106-7963-478F-8725-65D2EF353327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D79FE106-7963-478F-8725-65D2EF353327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D79FE106-7963-478F-8725-65D2EF353327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8787147A-6722-4534-A93B-01660BEAF3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8787147A-6722-4534-A93B-01660BEAF3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8787147A-6722-4534-A93B-01660BEAF3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8787147A-6722-4534-A93B-01660BEAF3DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
